@@ -2,3 +2,4 @@ This is the first line in master branch.
 This is the second line in master branch.
 This is the third line in master branch.
 This is the first line in a1 branch.
+This is the final line in a1 branch than version 3 update.
